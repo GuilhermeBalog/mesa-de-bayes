@@ -16,3 +16,4 @@ Projeto desenvolvido nas code sessions da [Síntese Jr](http://sintesejr.com.br/
 
 - [Bayes Billiards with Tom Crawford](https://www.youtube.com/watch?v=rwtDBhD6Mq0)
 - [PQ ALGUNS PROBLEMAS DA ESTATISTICA BUGAM SUA CABEÇA? | TEOREMA DE BAYES](https://www.youtube.com/watch?v=H3nxgNCzEjc)
+- [Bayes Billiard Balls - Stanford](http://statweb.stanford.edu/~susan/courses/s116/node77.html)
